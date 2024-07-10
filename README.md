@@ -6,7 +6,7 @@
 
 GitHub Pages: https://samuelargentino.github.io/AluraBooks/
 
-Vercel: https://aluraplus-pi-seven-75.vercel.app/
+Vercel: [https://aluraplus-pi-seven-75.vercel.app/](https://alura-books-seven-lyart.vercel.app/)
 
 ## Ferramentas utilizadas:
 
